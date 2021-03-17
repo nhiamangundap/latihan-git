@@ -2,4 +2,5 @@
 console.log("baris pertama");
 
 //kamis
-consolo.log("baris kedua");
+console.log("baris kedua");
+console.log("baris ketiga dari online");
